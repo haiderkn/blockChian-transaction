@@ -1,11 +1,5 @@
 # blockChian-transaction
 
-Here’s a short README for your assignment:
-
----
-
-# Simple Blockchain Assignment
-
 This project simulates a basic blockchain network with a focus on block creation, mining, and transactions. The code provided allows users to interact with a blockchain-like structure where they can create transactions, mine blocks, and monitor the network's status.
 
 ## Features
@@ -42,7 +36,3 @@ This project simulates a basic blockchain network with a focus on block creation
 2. **Send Transaction Requests**: Users send data to be added to the blockchain.
 3. **Mining Blocks**: Miners process pending blocks and receive a reward for each mined block.
 4. **Checkpoints**: Verify the blockchain state and miner/user balances after each mining operation.
-
----
-
-This README provides a concise overview for setting up and using the blockchain simulation program.
